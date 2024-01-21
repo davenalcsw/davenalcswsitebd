@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: 
 date: 2022-10-24
 
 type: landing
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome
+        content: Take a look at what I'm working on...
         align: center
         background:
           image:
